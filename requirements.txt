@@ -1,0 +1,7 @@
+gate-api
+pandas
+python-dotenv
+requests
+pandas-ta
+urllib3<2.0
+numpy<1.24
